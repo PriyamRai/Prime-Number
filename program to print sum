@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main () {
+  int a,b,c;
+  a=5;
+  b=6;
+  c=9;
+  int d=a+b+c;
+  cout<<d;
+  
+  
+  
+  
+  
+}
